@@ -1,0 +1,5 @@
+ECHO is on.
+.env
+venv/
+.ipynb_checkpoints/
+__pycache__/
